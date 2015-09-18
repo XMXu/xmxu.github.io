@@ -6,11 +6,11 @@ title: about
 <span id="about-portrait"><img src="images/about-portrait.png" alt="Portrait of Freeman Hsu" /></span>
 
 
-My name is Freeman Hsu.I live Shenzhen,China.I am a [Android] software engineer for [Yunva][yunva].
+My name is Freeman Hsu. I live Shenzhen,China. I am an Android Software Engineer for [Yunva][yunva].
 
-I studied Communications Engineering at Southwest University For Nationalities.Previous to Yunva, I worked for [CMGE][cmge] on Douzhi Studio as a Game Developer.I also worked on iOS applications.
+I studied Communications Engineering at Southwest University For Nationalities. Previous to Yunva, I worked for [CMGE][cmge] on Douzhi Studio as a Game Developer. I also worked on iOS applications.
 
-Outside of work, I go to gym.I also enjoy basketball especially the L.A. Clippers.
+Outside of work, I often go to gym. I also enjoy basketball especially the L.A. Clippers.
 
 
 
