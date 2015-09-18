@@ -9,7 +9,7 @@ title: about
 # Contact Me
 
 * **Email:** xxm0211@gmail.com
-* **Twitter:** [@xiaoming.xu][twitter]
+* **Twitter:** [@Iceshow0428][twitter]
 * **GitHub:** [github.com/freeman0211][github]
 
 [flipboard]: http://flipboard.com/
@@ -17,5 +17,5 @@ title: about
 [hulu]: http://www.hulu.com
 [apple]: http://www.apple.com
 [microsoft]: http://www.microsoft.com
-[twitter]: http://twitter.com/ascarter
-[github]: http://github.com/ascarter/
+[twitter]: http://twitter.com/Iceshow0428
+[github]: http://github.com/freeman0211/
