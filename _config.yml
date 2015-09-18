@@ -1,9 +1,9 @@
-name: Coding in the Rain
+name: Good Good Study <--> Day Day Up 
 markdown: redcarpet
 pygments: true
 permalink: date
 google_analytics_code: UA-92810-1
-url: http://ascarter.net
+url: https://freeman0211.github.io/
 exclude:
 - config.ru
 - Gemfile
