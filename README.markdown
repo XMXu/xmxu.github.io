@@ -1,4 +1,4 @@
-It is a personal blog. Use theme from [ascarter][ascarter].
+It is a personal blog. Theme using from [ascarter][ascarter].
 
 
 
