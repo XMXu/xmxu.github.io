@@ -3,7 +3,7 @@
 ####Support Libraries主要是对老版本系统提供新API的支持以及一些辅助工具类。
 
 
-###一、Android v4 Support Libraries
+##一、Android v4 Support Libraries
 
 	com.android.support:support-v4:21.0.0
 
@@ -62,7 +62,7 @@
 
 
 
-###二、Android v7 Support Libraries
+##二、Android v7 Support Libraries
 
 
    v7有些特性依赖于v4，所以用v7时最好引入v4。可以运行在Android2.1(API 7)及以上，它包含有多个单独的库，主要如下：
@@ -212,25 +212,25 @@
 
 
 
-###3.Percent Support Library
+##三、Percent Support Library
 		com.android.support:percent:23.0.0
 		
 提供百分比布局支持。
 [Demo][PercentDemo]
 
-###4.Design Support Library
+##四、Design Support Library
 		com.android.support:design:22.2.0
 		
 提供一些Material Design的组件和UI，包括Navigation Drawers, Floating Action Buttons (FAB), Snackbars, and Tabs等。
 	[Material Design介绍][Material Design Introduction]	
 	
-###5.Annotations Support Library
+##五、Annotations Support Library
 		com.android.support:support-annotations:22.0.0
 
 提供可增强类型的注解，减少出错。比如对一个方法@WorkerThread，如果这个方法在主线程调用会编译异常。
 
 
-###6.Multidex Support Library
+##六、Multidex Support Library
 		com.android.support:multidex:1.0.0
 		
 用来解决dex方法数大于65535问题。Dalvik限制一个App只能有一个dex文件，ART运行模式则没有限制。Multidex库就是用来支持App可以有多个dex文件的。[Multidex用法详情][BuildingAppWithOver65Methods]
