@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-<span id="about-portrait"><img src="images/about-portrait.png" alt="Portrait of Freeman Hsu" /></span>
+<span id="about-portrait"><img src="images/about-portrait.png" alt="Portrait of SimonXu" /></span>
 
 
 My name is Freeman Hsu. I live Shenzhen,China. I am an Android Software Engineer for [Yunva][yunva].
@@ -18,7 +18,7 @@ Outside of work, I often go to gym. I also enjoy basketball especially the L.A. 
 
 * **Email:** xxm0211@gmail.com
 * **Twitter:** [@Iceshow0428][twitter]
-* **GitHub:** [github.com/freeman0211][github]
+* **GitHub:** [github.com/XMXu][github]
 * **Facebook:** [@XiaomingXu][facebook]
 
 [yunva]: http://www.yunva.com/
@@ -29,5 +29,5 @@ Outside of work, I often go to gym. I also enjoy basketball especially the L.A. 
 [apple]: http://www.apple.com
 [microsoft]: http://www.microsoft.com
 [twitter]: http://twitter.com/Iceshow0428
-[github]: http://github.com/freeman0211/
+[github]: http://github.com/XMXu/
 [facebook]: https://www.facebook.com/profile.php?id=100004826528571
