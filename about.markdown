@@ -18,7 +18,7 @@ Outside of work, I often go to gym. I also enjoy basketball especially the L.A. 
 
 * **Email:** xxm0211@gmail.com
 * **Twitter:** [@Iceshow0428][twitter]
-* **GitHub:** [github.com/XMXu][github]
+* **GitHub:** [github.com/xmxu][github]
 * **Facebook:** [@XiaomingXu][facebook]
 
 [yunva]: http://www.yunva.com/
@@ -29,5 +29,5 @@ Outside of work, I often go to gym. I also enjoy basketball especially the L.A. 
 [apple]: http://www.apple.com
 [microsoft]: http://www.microsoft.com
 [twitter]: http://twitter.com/Iceshow0428
-[github]: http://github.com/XMXu/
+[github]: http://github.com/xmxu/
 [facebook]: https://www.facebook.com/profile.php?id=100004826528571
